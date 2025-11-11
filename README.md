@@ -5,12 +5,17 @@
 
 ---
 ## 💫 About Me:
-💫 About Me
+I design and build **testing platforms**, not just test scripts.
 
-- 🚀 I’m exploring the intersection of AI, automation, and software testing — building systems that can think, reason, and code.
-- 🤖 Currently working on AI-integrated testing frameworks that can analyze tech designs, product specs, and Jira stories to auto-generate boilerplate code and test suites.
-- 🧠 Constantly learning how to embed AI agents into everyday dev workflows to eliminate the boring stuff and amplify human creativity.
-- ⚡ I thrive on complex, uncharted problems — anything that challenges convention keeps me alive; repetition doesn’t.
+- Creator of **UAF (Python)**, **Critter (TypeScript)** and **ATAS (Java/Spring Boot)** –  
+  end-to-end automation frameworks that unify **web, API, mobile** and device-farm testing with CI/CD, reporting, and cloud/local providers.
+- Currently exploring **AI-driven testing** – wiring LLMs and agents into these platforms so they can:
+  - read tech/product designs and Jira tickets,
+  - generate boilerplate tests and code,
+  - and continuously evaluate system quality without manual grind.
+- Comfortable across **Python, TypeScript, Java, Docker, Kubernetes, PostgreSQL, Playwright, Selenium/Appium, Spring Boot**, and cloud tooling.
+- I’m obsessed with **hard, non-trivial problems** and allergic to repetitive, boring work – if something is boring, it gets automated or deleted.
+
 
 ## Banking Standards
 <p align="left">
