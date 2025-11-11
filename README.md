@@ -5,7 +5,12 @@
 
 ---
 ## 💫 About Me:
-🔭 I’m currently working on building a playwright automation project which has AI capabilities to automatically write up the boiler plate code via gathering details from the tech design, product design and the story/task created in Jira<br>🌱 I’m currently learning AI and how I can integrate them in to my day to day work and automate the boring stuffs using AI agents<br>⚡ Fun fact, I am extremely interested in challenging things and at the same time don't like boring stuffs
+💫 About Me
+
+- 🚀 I’m exploring the intersection of AI, automation, and software testing — building systems that can think, reason, and code.
+- 🤖 Currently working on AI-integrated testing frameworks that can analyze tech designs, product specs, and Jira stories to auto-generate boilerplate code and test suites.
+- 🧠 Constantly learning how to embed AI agents into everyday dev workflows to eliminate the boring stuff and amplify human creativity.
+- ⚡ I thrive on complex, uncharted problems — anything that challenges convention keeps me alive; repetition doesn’t.
 
 ## Banking Standards
 <p align="left">
