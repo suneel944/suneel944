@@ -90,11 +90,3 @@ I design and build **testing platforms**, not just test scripts.
   <a href="https://stackoverflow.com/users/6090958" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height="30" width="30" /></a>
   <a href="mailto:suneel944@live.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/9f1f973d-83fb-465c-90dc-09c40bd75bf1" alt="Live Email" height="30" width="30" /></a>
 </p>
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suneel944&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=suneel944&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
