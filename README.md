@@ -30,17 +30,6 @@
 
 The through-line with the testing work: an agent is only useful when its output can be checked. Grounding, attribution and gates are how you check it.
 
-## 🧰 Shipped & maintained
-
-| Project | What it is |
-| --- | --- |
-| [agent-parley](https://github.com/suneel944/agent-parley) | Multi-agent coordination across isolated worktrees |
-| [UAF](https://github.com/suneel944/UAF) | Universal Python framework — mobile, web and API testing with device farming |
-| [critter](https://github.com/suneel944/critter) | Versatile TypeScript automation framework (Playwright + Appium) |
-| [ATAS](https://github.com/suneel944/ATAS) | Monolithic Java automation framework, testing-as-a-service |
-| [PyAI-Slayer](https://github.com/suneel944/PyAI-Slayer) · [simaipy](https://github.com/suneel944/simaipy) | AI/chatbot testing frameworks with semantic evaluation |
-| [cloud-native-monitoring](https://github.com/suneel944/cloud-native-monitoring) | Real-time Flask monitoring dashboard on AWS ECR/EKS |
-
 ## 🏗️ Platform work (private)
 
 **MTAAS — Testing-as-a-Service, built end to end.** A test suite stops being a command you run on a laptop and becomes a service you call. A Spring Boot control plane exposes REST APIs to discover, execute, monitor and report; execution is decoupled into runners — local CLI, external process, or ephemeral Kubernetes Jobs. Runners stream lifecycle events back over an internal API, the server persists every execution, result, step and media attachment, and fans real-time updates to dashboards over Redis Pub/Sub and Server-Sent Events.
